@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yauquenlay
-- 👀 I’m interested in ...
-- 📫 How rich i am ...
+- 👀 I’m not interested in money.
+- 📫 How rich i am.
 
 <!---
 yauquenlay/yauquenlay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
