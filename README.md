@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yauquenlay
+- 👋 Hi, I’m @yauquenlay.
 - 👀 I’m not interested in money.
 - 📫 How rich i am.
 
